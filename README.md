@@ -1,2 +1,2 @@
-# Productividad-Basada-en-Herramientas-Tecnol-gicas-
+# Productividad-Basada-en-Herramientas-Tecnológicas-
 Proyecto Integrador
