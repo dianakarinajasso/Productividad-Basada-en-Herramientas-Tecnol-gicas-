@@ -1,10 +1,14 @@
 # Productividad-Basada-en-Herramientas-Tecnológicas
 ## Proyecto Integrador
 
-## Curso: **Productividad Basada en Herramientas Tecnológicas**
+## Curso: 
 
-## Nombre del profesor: **Mtra. Norma Irene Cantú Mata**
+**Productividad Basada en Herramientas Tecnológicas**
 
-## Alumno: **Diana Karina Jasso Monge**
+## Nombre del profesor: 
+**Mtra. Norma Irene Cantú Mata**
+
+## Alumno: 
+**Diana Karina Jasso Monge**
 
 
