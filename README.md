@@ -6,10 +6,10 @@
 **Productividad Basada en Herramientas Tecnológicas**
 
 ## Nombre del profesor: 
-**Mtra. Norma Irene Cantú Mata**
+## Mtra. Norma Irene Cantú Mata
 
 ## Alumno: 
-**Diana Karina Jasso Monge**
+## Diana Karina Jasso Monge
 
 
 ## Repositorio del proyecto de Taller de productividad basada en herramientas tecnológicas
