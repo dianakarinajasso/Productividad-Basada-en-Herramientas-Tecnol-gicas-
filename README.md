@@ -36,6 +36,7 @@ Se busca automatizar el inventario con el nuevo sistema de gestión, y obtener l
 
 
 ## Arquitectura 
+https://drive.google.com/drive/my-drive
 
 ## TABLA DE CONTENIDOS
 
