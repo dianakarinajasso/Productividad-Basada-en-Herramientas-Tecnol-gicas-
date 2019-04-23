@@ -47,6 +47,7 @@ https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-
 https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Instalaci%C3%B3n
 
 ## Configuración
+https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Configuraci%C3%B3n
 
 ## Uso 
 
