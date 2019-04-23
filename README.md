@@ -44,6 +44,7 @@ Se busca automatizar el inventario con el nuevo sistema de gestión, y obtener l
 https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Requerimientos
 
 ## Instalación
+https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Instalaci%C3%B3n
 
 ## Configuración
 
