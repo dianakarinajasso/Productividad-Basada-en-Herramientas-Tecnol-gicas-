@@ -1,18 +1,18 @@
 # Productividad-Basada-en-Herramientas-Tecnológicas
 ## Proyecto Integrador
 
-## Curso: 
+# Curso: 
 
-**Productividad Basada en Herramientas Tecnológicas**
+## Productividad Basada en Herramientas Tecnológicas
 
-## Nombre del profesor: 
+# Nombre del profesor: 
 ## Mtra. Norma Irene Cantú Mata
 
-## Alumno: 
+# Alumno: 
 ## Diana Karina Jasso Monge
 
 
-## Repositorio del proyecto de Taller de productividad basada en herramientas tecnológicas
+# Repositorio del proyecto de Taller de productividad basada en herramientas tecnológicas
 
 ## Descripción: 
 Sistema de inventario construido en java y su plataforma netbeans y la base de datos en Mysql 
