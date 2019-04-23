@@ -53,7 +53,7 @@ https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-
 https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Uso
 
 ## Contribución
-https://gist.github.com/juanghurtado/7a819d4f07619e944b56
+https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Contribuci%C3%B3n
 
 ## Roadmap 
 https://github.com/dianakarinajasso/Productividad-Basada-en-Herramientas-Tecnol-gicas-/wiki/Roadmap
